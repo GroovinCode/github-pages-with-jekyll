@@ -1,1 +1,2 @@
-today
+today is
+2020-01-28
